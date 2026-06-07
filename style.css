@@ -167,3 +167,30 @@ a:hover {
     width: 150px;
     color: #1F2937;
 }
+
+/* QUOTE SECTION */
+.quote-section {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-text {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+}
+
+.quote {
+    width: 750px;
+}
+
+.thor {
+    text-align: end;
+    font-size: 20px;
+    font-weight: 700;
+    color: #1F2937;
+}
